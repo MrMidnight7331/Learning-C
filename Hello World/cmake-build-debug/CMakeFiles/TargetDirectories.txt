@@ -1,0 +1,3 @@
+/Users/mrmidnight/Documents/My Projects/Learning-C/Hello World/cmake-build-debug/CMakeFiles/Hello_World.dir
+/Users/mrmidnight/Documents/My Projects/Learning-C/Hello World/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mrmidnight/Documents/My Projects/Learning-C/Hello World/cmake-build-debug/CMakeFiles/rebuild_cache.dir
